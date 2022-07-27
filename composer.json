@@ -1,11 +1,11 @@
 {
-    "name": "phpviet/laravel-number-to-words",
+    "name": "kiendaotac/laravel-number-to-words",
     "description": "Laravel number to words hổ trợ chuyển đổi số sang chữ số Tiếng Việt.",
     "keywords": [
         "phpviet",
         "laravel-number-to-words"
     ],
-    "homepage": "https://github.com/phpviet/laravel-number-to-words",
+    "homepage": "https://github.com/kiendaotac/laravel-number-to-words",
     "license": "MIT",
     "authors": [
         {
@@ -15,10 +15,10 @@
     ],
     "require": {
         "phpviet/number-to-words": "^1.2",
-        "illuminate/support": "^6.0 || ^7.0 || ^8.0"
+        "illuminate/support": "^6.0 || ^7.0 || ^8.0 || ^9.0"
     },
     "require-dev": {
-        "orchestra/testbench": "^4.0 || ^5.0 || ^6.0"
+        "orchestra/testbench": "^4.0 || ^5.0 || ^6.0 || ^7.0"
     },
     "autoload": {
         "files": [
